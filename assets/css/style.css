@@ -28,7 +28,7 @@ header {
     align-items: baseline;
 }
 header a {
-    text-declaration: none;
+    text-decoration: none;
     color: inherit;
 }
 h1 {
